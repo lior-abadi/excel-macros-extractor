@@ -8,5 +8,4 @@ This program can take a batch of Excel Macro files (.xlsm) with VBA Code and out
 3) Run:
 ```
 python extractMacros.py
-
 ```
